@@ -6,11 +6,11 @@
 ## Results
    My analysis indicates that there is a difference in ride-sharing data among the differnt city types.  Urban locations have a greater number of riders, drivers, and fares.  Additionally, they have a higher average fare per ride and a higher average fare per driver.  The difference is almost 3 to 4 times greater than their suburban and rural conterparts, respectively.  The following chart demonstrates this difference:
    
-![PyBer_Summary_DataFrame.png]("analysis/PyBer_Summary_DataFrame.png")
+![PyBer_Summary_DataFrame.png](analysis/PyBer_Summary_DataFrame.png)
 
 Further analysis shows that the total fares by city type are consistantly higher over a 3 month period.  Eventhough the are more peaks and valleys during this time period, urban fare rates are consistenly higher than suburban or rural rates.  The following chart shows this pattern:
 
-![multiple_line_chart.png]("analysis/multiple_line_chart.png")
+![multiple_line_chart.png](analysis/multiple_line_chart.png)
 
 ## Summary
 
