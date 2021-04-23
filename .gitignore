@@ -1,3 +1,7 @@
+# Files to ignore.
+PyBer_ride_data.ipynb
+matplotlib_practice.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
